@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "reply.h": "c",
+        "hiredis.h": "c",
+        "types.h": "c",
+        "console.h": "c",
+        "string.h": "c"
+    }
+}
