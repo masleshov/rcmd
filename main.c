@@ -77,7 +77,7 @@ int main(int argc, char *argv[])
         
         int len = strlen(input) - 1;
         char *cmd = clrstr(input, len); // gets length of string without last \n character
-        listen(ctx, cmd); // HGETALL instPBoardList
+        listen(ctx, cmd);
         free(cmd);
     }
 
